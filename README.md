@@ -1,2 +1,11 @@
 # projeto-yanna
-Alguma coisa pra teste
+
+
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+	}
+}
